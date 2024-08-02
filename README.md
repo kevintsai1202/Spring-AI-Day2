@@ -14,6 +14,7 @@
 
 
 名稱可以隨便取，預設會有一個 Default project，若有多個專案也可以建立好 Project 再來建立 API key，有特別權限需求可以在 Permissions 設定，記得產生 API key 後要馬上複製，不然視窗關閉後就無法取得完整的 API key ，只能重新建立一組
+
 ![https://ithelp.ithome.com.tw/upload/images/20240801/20161290gsRpyLd5Y0.png](https://ithelp.ithome.com.tw/upload/images/20240801/20161290gsRpyLd5Y0.png)
 ![https://ithelp.ithome.com.tw/upload/images/20240801/20161290f2pGObtkJI.png](https://ithelp.ithome.com.tw/upload/images/20240801/20161290f2pGObtkJI.png)
 
