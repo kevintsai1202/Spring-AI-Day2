@@ -36,6 +36,7 @@ groq 建立 key 的方式也非常簡單，在[主頁](https://groq.com/)點選 
 
 
 專案相關名稱填寫完畢就可以勾選需要的依賴，目前 Java Version 只能選到 17 以後的版本，Spring Boot Version 也只能選擇 3.2.8 以後，若要使用以前的版本就只能建立 Maven 專案自行撰寫 pom.xml 了
+
 ![https://ithelp.ithome.com.tw/upload/images/20240801/201612905XYnrzLoKq.png](https://ithelp.ithome.com.tw/upload/images/20240801/201612905XYnrzLoKq.png)![https://ithelp.ithome.com.tw/upload/images/20240801/2016129065EN0h2R4x.png](https://ithelp.ithome.com.tw/upload/images/20240801/2016129065EN0h2R4x.png)
 
 凱文大叔勾選的依賴有
